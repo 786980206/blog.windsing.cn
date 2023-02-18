@@ -1,0 +1,8 @@
+- [参考](https://www.gohugo.cn/getting-started/quick-start/)
+
+- 初始化
+```
+scoop install go
+.\hugo version
+.\hugo new site . --force
+```
